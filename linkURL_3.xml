@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- - - - - - - - - - -
+##########################
+## Server Panel Deluxe ###
+### 7 Days to Die Mod ####
+##########################
+####### Eihwaz © #########
+##### www.eihwaz.de ######
+##########################
+- - - - - - - - - - - -->
+
+<!-- Replace the url and upload the file (e.g. Github) -->
+<!-- Open the file and click raw button (at right side) -->
+<!-- Copy and paste the url into windows.xml -->
+
+<eihwaz.de>
+	<entry>
+		<link>https://7daystodie-servers.com/server/133031/</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>Server Panel Deluxe</title>
+		<text></text><imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
